@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">ProyectoAndroid</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+
+    <string name="id">ID: </string>
+    <string name="name">Nombre: </string>
+    <string name="icon">Icono: </string>
+    <string name="latitude">Latitud: </string>
+    <string name="longitude">Longitud: </string>
+    <string name="description">Descripcion: </string>
+    <string name="temperature">Temperatura: </string>
+    <string name="wind_sped">Velocidad del viento: </string>
+    <string name="clouds">Nubocidad: </string>
+    <string name="humidity">Humedad: </string>
+    <string name="selection">Seleccione</string>
+    <string name="serviceFailture">Error al obtener datos</string>
+    <string name="cityNotFound">No se ha encontrado la ciudad seleccionada</string>
+
+
+    <!--Lista por defecto de Ciudades del Peru-->
+    <string-array name="citiesFromPeru">
+        <item>Amazonas</item>
+        <item>Áncash</item>
+        <item>Apurímac</item>
+        <item>Arequipa</item>
+        <item>Ayacucho</item>
+        <item>Cajamarca</item>
+        <item>Callao </item>
+        <item>Cuzco</item>
+        <item>Huancavelica</item>
+        <item>Huánuco</item>
+        <item>Ica</item>
+        <item>Junín</item>
+        <item>La Libertad</item>
+        <item>Lambayeque</item>
+        <item>Lima </item>
+        <item>Loreto</item>
+        <item>Madre de Dios </item>
+        <item>Moquegua </item>
+        <item>Pasco </item>
+        <item>Piura </item>
+        <item>Puno </item>
+        <item>San Martín </item>
+        <item>Tacna </item>
+        <item>Tumbes </item>
+        <item>Ucayali </item>
+    </string-array>
+</resources>
